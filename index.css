@@ -1,0 +1,27 @@
+body {
+    background-color:black;
+}
+
+header {
+    font-family:sans-serif;background-color:yellow;
+}
+
+h2, h1, p {
+    text-align:center
+}
+
+main {
+    font-family:sans-serif;background-color:green;font-size:20px;
+}
+
+table {
+    border-collapse:collapse;border:3px solid red;
+}
+
+tr {
+    border:2px solid blue;
+}
+
+footer {
+    font-family:sans-serif;background-color:blue;font-size:20px;
+}
